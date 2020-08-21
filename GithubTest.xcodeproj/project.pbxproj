@@ -13,6 +13,7 @@
 		C49BF27B24EFC3EE00D2639A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C49BF27924EFC3EE00D2639A /* Main.storyboard */; };
 		C49BF27D24EFC3EF00D2639A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C49BF27C24EFC3EF00D2639A /* Assets.xcassets */; };
 		C49BF28024EFC3EF00D2639A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C49BF27E24EFC3EF00D2639A /* LaunchScreen.storyboard */; };
+		C49BF28824EFC49400D2639A /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = C49BF28724EFC49400D2639A /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C49BF27C24EFC3EF00D2639A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C49BF27F24EFC3EF00D2639A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C49BF28124EFC3EF00D2639A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C49BF28724EFC49400D2639A /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				C49BF27524EFC3EE00D2639A /* SceneDelegate.swift */,
 				C49BF27724EFC3EE00D2639A /* ViewController.swift */,
 				C49BF27924EFC3EE00D2639A /* Main.storyboard */,
+				C49BF28724EFC49400D2639A /* MapForItinerary.swift */,
 				C49BF27C24EFC3EF00D2639A /* Assets.xcassets */,
 				C49BF27E24EFC3EF00D2639A /* LaunchScreen.storyboard */,
 				C49BF28124EFC3EF00D2639A /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C49BF28824EFC49400D2639A /* MapForItinerary.swift in Sources */,
 				C49BF27824EFC3EE00D2639A /* ViewController.swift in Sources */,
 				C49BF27424EFC3EE00D2639A /* AppDelegate.swift in Sources */,
 				C49BF27624EFC3EE00D2639A /* SceneDelegate.swift in Sources */,
