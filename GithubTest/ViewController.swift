@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
    @IBAction func buttonClicked(_ sender: UIButton) {
-      print("You finished!")
+      print("You finished! ")
     }
 
 }
